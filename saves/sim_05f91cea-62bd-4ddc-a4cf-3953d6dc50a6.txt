@@ -1,0 +1,17 @@
+CRISISSIM_V1
+05f91cea-62bd-4ddc-a4cf-3953d6dc50a6
+Public Relations Crisis
+2026-05-02T16:39:44.982132700
+SUCCESS! Your business has weathered the crisis and emerged stronger!
+true
+6
+0,65.0,30.0,55.0,45.0
+1,65.0,50.0,55.0,60.0
+2,65.0,70.0,55.0,75.0
+2,50.0,70.0,55.0,75.0
+3,50.0,90.0,55.0,90.0
+3,35.0,90.0,55.0,90.0
+3
+Full Public Apology
+Full Public Apology
+Full Public Apology

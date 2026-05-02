@@ -1,0 +1,14 @@
+CRISISSIM_V1
+c47a7b89-43f1-44e3-800c-e4bf0da11739
+Cash Flow Crisis
+2026-05-02T16:39:15.837936500
+The crisis period has ended. Your business survived but with mixed results.
+false
+4
+0,45.0,65.0,60.0,62.0
+1,60.0,65.0,40.0,62.0
+2,75.0,65.0,20.0,62.0
+2,75.0,50.0,20.0,52.0
+2
+Aggressive Cost Cutting
+Aggressive Cost Cutting

@@ -1,0 +1,53 @@
+.root {
+    -fx-font-family: "Segoe UI", Arial, sans-serif;
+}
+
+.button {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-padding: 8 15 8 15;
+    -fx-background-radius: 5;
+    -fx-cursor: hand;
+}
+
+.button:hover {
+    -fx-background-color: #45a049;
+}
+
+.button-danger {
+    -fx-background-color: #f44336;
+}
+
+.button-danger:hover {
+    -fx-background-color: #d32f2f;
+}
+
+.label-title {
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+}
+
+.chart {
+    -fx-background-color: white;
+}
+
+.chart-plot-background {
+    -fx-background-color: #fafafa;
+}
+
+.text-area {
+    -fx-font-size: 13px;
+}
+
+.list-view {
+    -fx-background-color: white;
+}
+
+.progress-bar > .bar {
+    -fx-background-radius: 3;
+}
+
+.progress-bar > .track {
+    -fx-background-color: #e0e0e0;
+}
